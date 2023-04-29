@@ -1,12 +1,12 @@
 <template>
 <div>
-  Some componets
+  Else componets
 </div>
 </template>
 
 <script>
 export default {
-  name: "Some"
+  name: "Else"
 }
 </script>
 
